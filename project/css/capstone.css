@@ -1,0 +1,567 @@
+.a{
+	height: 300px;
+	width: 600px;
+	background: tan;
+	margin: 10px 400px;
+
+}
+.b{
+	height: 300px;
+	width: 600px;
+	background: tan;
+    margin: 10px 400px;
+    position: relative;
+    bottom: 50px;
+ 
+}
+.c{
+	height: 300px;
+	width: 600px;
+	background: tan;
+	margin: 0px 400px;
+	position: relative;
+	bottom: 60px;
+}
+.t{
+	height: 400px;
+	width: 600px;
+	background: lightgreen;
+	margin: 0px 400px;
+	position: relative;
+	bottom: 80px;
+}
+.o{
+	height: 300px;
+	width: 300px;
+	background: lightpink;
+}
+.d{
+	height: 150px;
+	width: 600px;
+	background: lightpink; 
+}
+.w{
+	height: 100px;
+	width: 100px;
+	background: white; 
+	float: left;
+	padding-bottom: 50px; 
+	margin: 0px 40px;
+	position: relative;
+    bottom: 80px;
+    left: 40px;
+    border-radius: 20px;
+}
+.x{
+	height: 100px;
+	width: 100px;
+	background: white;
+	float: left;
+	padding-bottom: 50px;
+	margin: 0px 10px;
+	position: relative;
+	bottom: 80px;
+	border-radius: 20px;
+
+
+}
+.y{
+    height: 100px;
+	width: 100px;
+    background: white; 
+    float: left;
+    padding-bottom: 50px;
+    margin: 0px 10px;
+    position: relative;
+    bottom: 80px;
+    right: 10px;
+    border-radius: 20px;
+    
+   
+}
+.z{
+    height: 100px;
+	width: 100px;
+	background-color: white;
+    float: left;
+    padding-bottom: 50px;
+    margin: 0px 5px;
+    position:relative;
+    bottom: 80px;
+    right: 15px;
+    border-radius: 20px;
+}
+.h1{
+	font-style: 10px;
+}
+.sri{
+	height: 200px;
+	width: 300px;
+	margin: 20px 10px;
+	position: relative;
+	bottom: 50px;
+	border-radius: 100px 50px ;
+}
+.main1{
+	height: 250px;
+	width: 150px;
+	background-color: orange;
+	float: left;
+	margin: 0px 40px;
+	position: relative;
+	bottom: 80px;
+	border-radius: 10px;
+}
+.main2{
+	height: 250px;
+	width: 150px;
+	background-color: orange;
+	float: left;
+    margin: 0px 10px;
+    position: relative;
+    right: 35px;
+    bottom: 80px;
+    border-radius: 10px;
+}
+.main3{
+	height: 250px;
+	width: 150px;
+	background-color: orange;
+	float: left;
+	margin: 0px 5px;
+	position: relative;
+	right: 35px;
+	bottom: 80px;
+	border-radius: 10px;
+}
+.r{
+    margin: 20px 40px;
+    position: relative;
+    left: 60px;
+    bottom: 60px;
+    }
+.s{
+	margin: 40px 60px;
+	position: relative;
+	left: 20px;
+	bottom: 80px;
+}
+.m{
+	margin: 5px 100px;
+	position: relative;
+	left: 150px;
+	bottom: 100px;
+	border-radius: 20px;
+	background-color: orange;
+}
+.l0{
+	position: relative;
+	left: 350px;
+	bottom: 280px;
+}
+}
+.l{
+	margin: 30px 100px;
+	position: relative;
+	left: 200px;
+	bottom: 1000px;
+}
+.u{
+	margin: 0px 180px;
+	position: relative;
+	left: 160px;
+	bottom: 300px;
+
+}
+.f{
+	margin: 0px 140px;
+	position: relative;
+	left: 260px;
+	bottom: 280px;
+	border-radius: 20px;
+	background-color: orange;
+}
+.v{
+	margin: 0px 100px;
+	position: relative;
+	left: 250px;
+	bottom: 260px;
+}
+.g{
+	margin: 0px 200px;
+	position: relative;
+	left: 150px;
+	bottom: 250px;
+}
+.n{
+	margin: 0px 200px;
+	position: relative;
+	left: 200px;
+	bottom: 230px;
+	background-color: orange;
+	border-radius: 20px;
+}
+.h{
+	height: 300px;
+	width: 600px;
+	background-color: tan;
+	margin: 0px 400px;
+	position: relative;
+	bottom: 80px;
+}
+.j{
+	height: 300px;
+	width: 600px;
+}
+.k{
+	height: 200px;
+	width: 250px;
+	background-color: white;
+	margin: 0px 200px;
+	position: relative;
+	bottom: 300px;
+}
+.sri{
+     margin: 30px 10px;
+     position: relative;
+     bottom: 30px;
+     border-radius: 150px;
+	}
+.devi{
+      margin: 0px 30px;
+      position: relative;
+      bottom: 170px;
+      right: 25px;
+	}
+.bala{
+	margin: 0px 50px;
+	position: relative;
+	left: 30px;
+	bottom: 160px;
+	border-radius: 20px;
+	background-color: orange; 
+}
+.and{
+	position: relative;
+	bottom: 5px;
+	font-size: 25px;
+	left: 10px;
+}
+.or{
+	position: relative;
+	bottom: 5px;
+	font-size: 15px;
+}
+.bakery{
+	height: 600px;
+	width: 600px;
+	border: 2px solid black;
+	margin: 0px 400px;
+	position: relative;
+	bottom: 80px;
+}
+.item1{
+      margin: 0px 180px;
+      position: relative;
+      top: 20px;
+}
+.item2{
+	margin: 0px 180px;
+	position: relative;
+	top: 30px;
+	font-family: cursive;
+	font-size: 10px;
+	right: 15px;
+    }
+.ABC{
+	height: 300px;
+     width: 600px;
+     background-color: lightpink;
+     margin: 0px 400px;
+     position: relative;
+     bottom: 100px;
+    }
+    .abc{
+	height: 300px;
+     width: 600px;
+     background-color: tan;
+     margin: 0px 400px;
+     position: relative;
+     bottom: 100px;
+    }
+.ab{
+	height: 100px;
+	width: 100px;
+	margin: 30px 70px;
+	position: relative;
+	top: 40px;
+}
+.bc{
+	height: 100px;
+	width: 120px;
+	margin: 0px 210px;
+	position: relative;
+	bottom: 190px;
+	right: 10px;
+}
+.cd{
+	height: 100px;
+	width: 100px;
+	margin: 40px 250px;
+	position: relative;
+	left: 100px;
+	bottom: 425px;
+}
+.de{
+	height: 100px;
+	width: 100px;
+	margin: 60px 160px;
+	position: relative;
+	bottom: 720px;
+	left: 300px;
+}
+.abcd{
+	height: 100px;
+	width: 100px;
+	margin: 60px 160px;
+	position: relative;
+	bottom: 780px;
+	right: 100px;
+ }
+ .abce{
+ 	height: 100px;
+ 	width: 100px;
+ 	margin: 40px 300px;
+ 	position: relative;
+ 	bottom: 1080px;
+ 	right: 110px;
+
+ }
+ .abcf{
+ 	height: 100px;
+ 	width: 100px;
+ 	margin: 40px 300px;
+ 	position: relative;
+ 	bottom: 1350px;
+ 	left: 20px;
+ }
+ .abcg{
+ 	height: 100px;
+ 	width: 100px;
+ 	margin: 40px 300px;
+ 	position: relative;
+ 	bottom: 1630px;
+ 	left: 160px;
+ }
+ .xy{
+ 	font-size: 15px;
+ 	position: relative;
+ 	left: 70px;
+ 	top:10px;
+ }
+ .yz{
+ 	font-size: 15px;
+ 	position: relative;
+ 	left: 195px;
+ 	bottom: 190px;
+ }.wx{
+ 	font-size: 15px;
+ 	position: relative;
+ 	left: 340px;
+ 	bottom: 470px;
+ }
+ .wy{
+ 	font-size: 15px;
+ 	margin: 0px 150px;
+ 	position: relative;
+ 	left: 330px;
+ 	bottom: 775px;
+ }
+ .SRI{
+ 	font-size: 15px;
+ 	position: relative;
+ 	bottom: 840px;
+ 	left: 60px;
+ }
+ .DEVI{
+ 	font-size: 15px;
+ 	position: relative;
+ 	bottom: 1120px;
+ 	left:180px;
+ }
+ .BALA{
+ 	font-size: 15px;
+ 	position: relative;
+ 	bottom: 1400px;
+ 	left: 320px;
+ }
+ .NAGA{
+ 	font-size: 15px;
+ 	position: relative;
+ 	bottom:1680px;
+ 	left: 460px;
+ }
+ .xyz{
+ 	margin: 20px 40px;
+ 	position: relative;
+ 	left:15px;
+ 	bottom: 200px;
+ 	font-size: 6px;
+ }
+ .yzx{
+ 	margin: 20px 100px;
+ 	font-size: 6px;
+ 	position: relative;
+ 	bottom: 480px;
+ 	left: 100px;
+ }
+ .a1{
+ 	margin: 20px 100px;
+ 	position: relative;
+ 	left: 250px;
+ 	bottom: 790px;
+ 	font-size: 6px;
+
+ }
+ .a2{
+ 	margin: 20px 100px;
+ 	position: relative;
+ 	bottom: 1110px;
+ 	font-size: 6px;
+ 	left: 370px;
+ }
+ .a3{
+ 	margin: 20px 100px;
+ 	position: relative;
+ 	bottom: 1135px;
+ 	font-size: 6px;
+ 	right: 40px;
+ }
+  .a4{
+ 	margin: 20px 100px;
+ 	position: relative;
+ 	bottom: 1415px;
+ 	font-size: 6px;
+ 	left: 80px;
+ }
+ .a6{
+ 	margin: 20px 100px;
+ 	position: relative;
+ 	top:235px;
+ 	font-size: 6px;
+ 	left: 220px;
+ }
+ .a5{
+ 	margin: 20px 120px;
+ 	position: relative;
+ 	left: 330px;
+ 	bottom: 1700px;
+ 	font-size: 6px;
+ }
+ .b1{
+ 	margin: 0px 100px;
+ }
+ .b2{
+ 	margin: 0px 50px;
+ 	position: relative;
+ 	left: 180px;
+ 	bottom: 200px;
+ }
+  .b3{
+ 	position: relative;
+ 	left: 380px;
+ 	bottom: 480px;
+ }
+ .b4{
+ 	position: relative;
+ 	left: 500px;
+ 	bottom: 790px;
+ }
+ .b5{
+ 	position: relative;
+ 	left: 100px;
+ 	bottom: 850px;
+ }
+ .b6{
+ 	position: relative;
+ 	left: 225px;
+ 	bottom: 1125px;
+ }
+  .b7{
+ 	position: relative;
+ 	left: 350px;
+ 	bottom: 1400px;
+ }
+  .b8{
+ 	position: relative;
+ 	left: 500px;
+ 	bottom: 1680px;
+ }
+ .l1{
+    height: 100px;
+    width: 600px;
+    background-color: orange;
+    
+ }
+ .l2{
+ 	position: relative;
+ 	top: 20px;
+ 	left: 80px;
+ }
+ .l3{
+    position: relative;
+    left: 450px;
+    border-radius: 20px;
+    background-color: orange;
+ }
+ .l4{
+ 	position: relative;
+ 	left: 80px;
+ 	bottom: 25px;
+ 	font-size: 10px;
+ }
+ .l5{
+ 	height: 200px;
+ 	width: 600px;
+ }
+ .l6{
+ 	margin: 0px 40px;
+ 	position: relative;
+ 	bottom: 200px;
+}
+.l7{
+	margin: 0px 40px;
+	position: relative;
+	bottom: 200px;
+}
+.l8{
+	margin: 0px 40px;
+	position: relative;
+	bottom: 190px;
+	left: 100px;
+	border-radius: 20px;
+	background-color: orange;
+}
+.l9{
+	margin: 0px 40px;
+	position: relative;
+	bottom: 190px;
+	left: 80px;
+	border-radius: 20px;
+	background-color: orange;
+}
+.m1{
+	height: 300px;
+	width :300px;
+}
+.m2{
+	position: relative;
+	left: 400px;
+	bottom: 300px;
+}
+.m3{
+	margin: 0px 250px;
+	position: relative;
+	left: 150px;
+	bottom: 300px;
+}
