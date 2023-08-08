@@ -1,0 +1,55 @@
+.abc{
+	border: 2px dashed yellow;
+	background-color: blue
+}
+#a369{
+	background: indigo;
+	font-family: cursive;
+}
+p{
+	color: blue;
+	font-size: 30px;
+}
+*{
+	font-family: cursive;
+	margin: 0px;
+	padding: 0px
+}
+input[type]{
+	color:yellow
+}
+
+input[type="text"]{
+	color:blue
+}
+input[type="number"]{
+	color:green
+}
+input[type="password"]{
+	color:gray
+}
+a[href]{
+	background-color: orange
+}
+a:link{
+	color: blue
+}
+a:visited{
+	color: orange
+}
+a:hover{
+	color: red
+}
+a:active{
+	color: yellow
+}
+div:hover{
+	background-color: indigo;
+	height: 500px;
+	width: 200px;
+}
+div:hover{
+	background-color: skyblue;
+	height: 500px;
+	width: 300px;
+}

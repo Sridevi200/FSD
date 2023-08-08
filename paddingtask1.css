@@ -1,0 +1,32 @@
+*{
+      margin: 0px;
+      padding: 0px;
+}
+.main{
+			height: 300px;
+			width: 600px;
+			background: gray;
+		}
+		.a{
+			height: 200px;
+			width: 500px;
+			background: orange;
+			padding: 20px;
+			margin: 20px 20px;
+		}
+		.b{
+			height: 100px;
+			width: 425px;
+			padding: 15px;
+			margin: 15px 20px;
+			background: gray;
+		}
+		.c{
+			height: 50px;
+			width: 300px;
+			padding: 10px;
+			margin: 10px 20px;
+			background: skyblue;
+			padding-left: 50px;
+
+		}

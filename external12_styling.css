@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.SRI{
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 0px;
+    background-color: grey;
+    }
+
